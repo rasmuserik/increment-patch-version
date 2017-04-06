@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 // # increment-patch-version
 //
 // Small utility for incrementing the patch-version of `package.json` in th current directory.
