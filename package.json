@@ -1,9 +1,11 @@
 {
   "name": "increment-patch-version",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "",
   "icon": "icon.png",
-  "bin": {"increment-patch-version": "increment-patch-version.js"},
+  "bin": {
+    "increment-patch-version": "increment-patch-version.js"
+  },
   "main": "dist.js",
   "ldoc": "increment-patch-version.js",
   "scripts": {
